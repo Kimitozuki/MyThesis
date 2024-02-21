@@ -1,0 +1,2015 @@
+path,sign,total_frame
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,42
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,33
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,35
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,30
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,34
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,24
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,39
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,28
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,23
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,35
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,33
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,43
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,29
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,45
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,35
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,40
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,23
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,29
+data/abyan/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,37
+data/abyan/raw_landmarks/Resep Obat Demam_0.parquet,resep,49
+data/abyan/raw_landmarks/Resep Obat Demam_1.parquet,obat,24
+data/abyan/raw_landmarks/Resep Obat Demam_2.parquet,demam,36
+data/abyan/raw_landmarks/Resep Obat Demam_3.parquet,resep,35
+data/abyan/raw_landmarks/Resep Obat Demam_4.parquet,obat,29
+data/abyan/raw_landmarks/Resep Obat Demam_5.parquet,demam,30
+data/abyan/raw_landmarks/Resep Obat Demam_6.parquet,resep,34
+data/abyan/raw_landmarks/Resep Obat Demam_7.parquet,obat,25
+data/abyan/raw_landmarks/Resep Obat Demam_8.parquet,demam,35
+data/abyan/raw_landmarks/Resep Obat Demam_9.parquet,resep,38
+data/abyan/raw_landmarks/Resep Obat Demam_10.parquet,obat,26
+data/abyan/raw_landmarks/Resep Obat Demam_11.parquet,demam,35
+data/abyan/raw_landmarks/Resep Obat Demam_12.parquet,resep,28
+data/abyan/raw_landmarks/Resep Obat Demam_13.parquet,obat,26
+data/abyan/raw_landmarks/Resep Obat Demam_14.parquet,demam,25
+data/abyan/raw_landmarks/Resep Obat Demam_15.parquet,resep,35
+data/abyan/raw_landmarks/Resep Obat Demam_16.parquet,obat,30
+data/abyan/raw_landmarks/Resep Obat Demam_17.parquet,demam,23
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,41
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,31
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,41
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,23
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,38
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,30
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,39
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,24
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,51
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,sakit,40
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,gigi,26
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,resep,46
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,sakit,40
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,gigi,33
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,resep,45
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,sakit,34
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,gigi,29
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,resep,37
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,29
+data/abyan/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,25
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,39
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,26
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,31
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,26
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,32
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,24
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,29
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,24
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,29
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,22
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,37
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,24
+data/abyan/raw_landmarks/Minum Obat Demam_0.parquet,minum,47
+data/abyan/raw_landmarks/Minum Obat Demam_1.parquet,obat,30
+data/abyan/raw_landmarks/Minum Obat Demam_2.parquet,demam,32
+data/abyan/raw_landmarks/Minum Obat Demam_3.parquet,minum,43
+data/abyan/raw_landmarks/Minum Obat Demam_4.parquet,obat,33
+data/abyan/raw_landmarks/Minum Obat Demam_5.parquet,demam,45
+data/abyan/raw_landmarks/Minum Obat Demam_6.parquet,minum,44
+data/abyan/raw_landmarks/Minum Obat Demam_7.parquet,obat,35
+data/abyan/raw_landmarks/Minum Obat Demam_8.parquet,demam,39
+data/abyan/raw_landmarks/Minum Obat Demam_9.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Demam_10.parquet,obat,25
+data/abyan/raw_landmarks/Minum Obat Demam_11.parquet,demam,26
+data/abyan/raw_landmarks/Minum Obat Demam_12.parquet,minum,37
+data/abyan/raw_landmarks/Minum Obat Demam_13.parquet,obat,27
+data/abyan/raw_landmarks/Minum Obat Demam_14.parquet,demam,33
+data/abyan/raw_landmarks/Minum Obat Demam_15.parquet,minum,41
+data/abyan/raw_landmarks/Minum Obat Demam_16.parquet,obat,26
+data/abyan/raw_landmarks/Minum Obat Demam_17.parquet,demam,29
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,33
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,20
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,32
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,22
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,33
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,32
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,40
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,22
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,27
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,33
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,27
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,31
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,28
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,30
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,24
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,33
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,21
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,33
+data/abyan/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,24
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,42
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,32
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,33
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,24
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,30
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,38
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,26
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,36
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,35
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,31
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,23
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,35
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,obat,38
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,sakit,36
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,gigi,26
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,obat,26
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,sakit,38
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,gigi,33
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_20.parquet,minum,46
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_21.parquet,obat,31
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_22.parquet,sakit,39
+data/abyan/raw_landmarks/Minum Obat Sakit Gigi_23.parquet,gigi,28
+data/abyan/raw_landmarks/Resep Obat Batuk_0.parquet,resep,37
+data/abyan/raw_landmarks/Resep Obat Batuk_1.parquet,obat,47
+data/abyan/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,31
+data/abyan/raw_landmarks/Resep Obat Batuk_3.parquet,resep,38
+data/abyan/raw_landmarks/Resep Obat Batuk_4.parquet,obat,33
+data/abyan/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,34
+data/abyan/raw_landmarks/Resep Obat Batuk_6.parquet,resep,35
+data/abyan/raw_landmarks/Resep Obat Batuk_7.parquet,obat,36
+data/abyan/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,22
+data/abyan/raw_landmarks/Resep Obat Batuk_9.parquet,resep,39
+data/abyan/raw_landmarks/Resep Obat Batuk_10.parquet,obat,36
+data/abyan/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,22
+data/abyan/raw_landmarks/Resep Obat Batuk_12.parquet,resep,40
+data/abyan/raw_landmarks/Resep Obat Batuk_13.parquet,obat,32
+data/abyan/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,26
+data/abyan/raw_landmarks/Resep Obat Batuk_15.parquet,resep,43
+data/abyan/raw_landmarks/Resep Obat Batuk_16.parquet,obat,41
+data/abyan/raw_landmarks/Resep Obat Batuk_17.parquet,batuk,25
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_0.parquet,resep,37
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_1.parquet,obat,33
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_2.parquet,sakit,32
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_3.parquet,kepala,29
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_4.parquet,resep,33
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_5.parquet,obat,33
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_6.parquet,sakit,34
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_7.parquet,kepala,30
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_8.parquet,resep,30
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_9.parquet,obat,28
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_10.parquet,sakit,33
+data/abyan/raw_landmarks/Resep Obat Sakit Kepala 2_11.parquet,kepala,27
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,34
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,26
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,33
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,25
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,34
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,29
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,33
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,26
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,33
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,26
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,36
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,24
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,30
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,30
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,39
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,24
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,34
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_17.parquet,obat,29
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_18.parquet,sakit,36
+data/abyan/raw_landmarks/Resep Obat Sakit Perut_19.parquet,perut,22
+data/abyan/raw_landmarks/Minum Obat Batuk_0.parquet,minum,29
+data/abyan/raw_landmarks/Minum Obat Batuk_1.parquet,obat,36
+data/abyan/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,30
+data/abyan/raw_landmarks/Minum Obat Batuk_3.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Batuk_4.parquet,obat,28
+data/abyan/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,57
+data/abyan/raw_landmarks/Minum Obat Batuk_6.parquet,minum,36
+data/abyan/raw_landmarks/Minum Obat Batuk_7.parquet,obat,32
+data/abyan/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,39
+data/abyan/raw_landmarks/Minum Obat Batuk_9.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Batuk_10.parquet,obat,33
+data/abyan/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,34
+data/abyan/raw_landmarks/Minum Obat Batuk_12.parquet,minum,42
+data/abyan/raw_landmarks/Minum Obat Batuk_13.parquet,obat,31
+data/abyan/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,33
+data/abyan/raw_landmarks/Minum Obat Batuk_15.parquet,minum,39
+data/abyan/raw_landmarks/Minum Obat Batuk_16.parquet,obat,29
+data/abyan/raw_landmarks/Minum Obat Batuk_17.parquet,batuk,38
+data/dani/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,41
+data/dani/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,28
+data/dani/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,37
+data/dani/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,39
+data/dani/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,34
+data/dani/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,27
+data/dani/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,41
+data/dani/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,49
+data/dani/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,41
+data/dani/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,27
+data/dani/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,52
+data/dani/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,25
+data/dani/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,45
+data/dani/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,26
+data/dani/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,44
+data/dani/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,32
+data/dani/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,40
+data/dani/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,33
+data/dani/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,46
+data/dani/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,23
+data/dani/raw_landmarks/Minum Obat Sakit Perut_20.parquet,minum,35
+data/dani/raw_landmarks/Minum Obat Sakit Perut_21.parquet,obat,31
+data/dani/raw_landmarks/Minum Obat Sakit Perut_22.parquet,sakit,46
+data/dani/raw_landmarks/Minum Obat Sakit Perut_23.parquet,perut,36
+data/dani/raw_landmarks/Minum Obat Batuk_0.parquet,minum,38
+data/dani/raw_landmarks/Minum Obat Batuk_1.parquet,obat,37
+data/dani/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,30
+data/dani/raw_landmarks/Minum Obat Batuk_3.parquet,minum,40
+data/dani/raw_landmarks/Minum Obat Batuk_4.parquet,obat,40
+data/dani/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,48
+data/dani/raw_landmarks/Minum Obat Batuk_6.parquet,minum,45
+data/dani/raw_landmarks/Minum Obat Batuk_7.parquet,obat,32
+data/dani/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,33
+data/dani/raw_landmarks/Minum Obat Batuk_9.parquet,minum,42
+data/dani/raw_landmarks/Minum Obat Batuk_10.parquet,obat,38
+data/dani/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,33
+data/dani/raw_landmarks/Minum Obat Batuk_12.parquet,minum,44
+data/dani/raw_landmarks/Minum Obat Batuk_13.parquet,obat,26
+data/dani/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,33
+data/dani/raw_landmarks/Minum Obat Batuk_15.parquet,minum,36
+data/dani/raw_landmarks/Minum Obat Batuk_16.parquet,obat,31
+data/dani/raw_landmarks/Minum Obat Batuk_17.parquet,batuk,26
+data/dani/raw_landmarks/Minum Obat Batuk_18.parquet,minum,41
+data/dani/raw_landmarks/Minum Obat Batuk_19.parquet,obat,28
+data/dani/raw_landmarks/Minum Obat Demam_0.parquet,minum,33
+data/dani/raw_landmarks/Minum Obat Demam_1.parquet,obat,33
+data/dani/raw_landmarks/Minum Obat Demam_2.parquet,demam,37
+data/dani/raw_landmarks/Minum Obat Demam_3.parquet,minum,36
+data/dani/raw_landmarks/Minum Obat Demam_4.parquet,obat,40
+data/dani/raw_landmarks/Minum Obat Demam_5.parquet,demam,42
+data/dani/raw_landmarks/Minum Obat Demam_6.parquet,minum,37
+data/dani/raw_landmarks/Minum Obat Demam_7.parquet,obat,43
+data/dani/raw_landmarks/Minum Obat Demam_8.parquet,demam,52
+data/dani/raw_landmarks/Minum Obat Demam_9.parquet,minum,30
+data/dani/raw_landmarks/Minum Obat Demam_10.parquet,obat,30
+data/dani/raw_landmarks/Minum Obat Demam_11.parquet,demam,49
+data/dani/raw_landmarks/Minum Obat Demam_12.parquet,minum,38
+data/dani/raw_landmarks/Minum Obat Demam_13.parquet,obat,30
+data/dani/raw_landmarks/Minum Obat Demam_14.parquet,demam,42
+data/dani/raw_landmarks/Minum Obat Demam_15.parquet,minum,42
+data/dani/raw_landmarks/Minum Obat Demam_16.parquet,obat,25
+data/dani/raw_landmarks/Minum Obat Demam_17.parquet,demam,37
+data/dani/raw_landmarks/Minum Obat Demam_18.parquet,minum,35
+data/dani/raw_landmarks/Minum Obat Demam_19.parquet,obat,38
+data/dani/raw_landmarks/Minum Obat Demam_20.parquet,demam,33
+data/dani/raw_landmarks/Minum Obat Demam_21.parquet,minum,45
+data/dani/raw_landmarks/Minum Obat Demam_22.parquet,obat,27
+data/dani/raw_landmarks/Minum Obat Demam_23.parquet,demam,38
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,36
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,63
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,48
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,24
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,41
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,45
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,44
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,31
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,47
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,sakit,39
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,gigi,31
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,minum,43
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,obat,50
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,sakit,43
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,gigi,35
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,minum,37
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,obat,40
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,sakit,39
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,gigi,37
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,minum,42
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_20.parquet,obat,37
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_21.parquet,sakit,46
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_22.parquet,gigi,39
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_23.parquet,minum,46
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_24.parquet,obat,32
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_25.parquet,sakit,38
+data/dani/raw_landmarks/Minum Obat Sakit Gigi_26.parquet,gigi,37
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,34
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,29
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,44
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,35
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,35
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,26
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,43
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,33
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,36
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,23
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,46
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,34
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,34
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,24
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,36
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,31
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,32
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,21
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,34
+data/dani/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,38
+data/dani/raw_landmarks/Resep Obat Batuk_0.parquet,resep,41
+data/dani/raw_landmarks/Resep Obat Batuk_1.parquet,obat,39
+data/dani/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,38
+data/dani/raw_landmarks/Resep Obat Batuk_3.parquet,resep,41
+data/dani/raw_landmarks/Resep Obat Batuk_4.parquet,obat,36
+data/dani/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,35
+data/dani/raw_landmarks/Resep Obat Batuk_6.parquet,resep,48
+data/dani/raw_landmarks/Resep Obat Batuk_7.parquet,obat,34
+data/dani/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,32
+data/dani/raw_landmarks/Resep Obat Batuk_9.parquet,resep,43
+data/dani/raw_landmarks/Resep Obat Batuk_10.parquet,obat,28
+data/dani/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,32
+data/dani/raw_landmarks/Resep Obat Batuk_12.parquet,resep,46
+data/dani/raw_landmarks/Resep Obat Batuk_13.parquet,obat,34
+data/dani/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,34
+data/dani/raw_landmarks/Resep Obat Batuk_15.parquet,resep,42
+data/dani/raw_landmarks/Resep Obat Batuk_16.parquet,obat,31
+data/dani/raw_landmarks/Resep Obat Batuk_17.parquet,batuk,39
+data/dani/raw_landmarks/Resep Obat Demam_0.parquet,resep,39
+data/dani/raw_landmarks/Resep Obat Demam_1.parquet,obat,32
+data/dani/raw_landmarks/Resep Obat Demam_2.parquet,demam,47
+data/dani/raw_landmarks/Resep Obat Demam_3.parquet,resep,35
+data/dani/raw_landmarks/Resep Obat Demam_4.parquet,obat,33
+data/dani/raw_landmarks/Resep Obat Demam_5.parquet,demam,52
+data/dani/raw_landmarks/Resep Obat Demam_6.parquet,resep,38
+data/dani/raw_landmarks/Resep Obat Demam_7.parquet,obat,40
+data/dani/raw_landmarks/Resep Obat Demam_8.parquet,demam,46
+data/dani/raw_landmarks/Resep Obat Demam_9.parquet,resep,34
+data/dani/raw_landmarks/Resep Obat Demam_10.parquet,obat,27
+data/dani/raw_landmarks/Resep Obat Demam_11.parquet,demam,42
+data/dani/raw_landmarks/Resep Obat Demam_12.parquet,resep,35
+data/dani/raw_landmarks/Resep Obat Demam_13.parquet,obat,29
+data/dani/raw_landmarks/Resep Obat Demam_14.parquet,demam,54
+data/dani/raw_landmarks/Resep Obat Demam_15.parquet,resep,36
+data/dani/raw_landmarks/Resep Obat Demam_16.parquet,obat,29
+data/dani/raw_landmarks/Resep Obat Demam_17.parquet,demam,34
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,43
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,27
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,39
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,36
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,39
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,25
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,46
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,30
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,45
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,30
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,46
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,resep,38
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,obat,27
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,sakit,42
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,gigi,35
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,resep,36
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,obat,21
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,sakit,46
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,gigi,39
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,resep,48
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_20.parquet,obat,27
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_21.parquet,sakit,52
+data/dani/raw_landmarks/Resep Obat Sakit Gigi_22.parquet,gigi,40
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,30
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,22
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,21
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,37
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,32
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,23
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,24
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,49
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,39
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,30
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,33
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,40
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,38
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,24
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,29
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,41
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,32
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,21
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,24
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,41
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,resep,40
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,sakit,25
+data/dani/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,kepala,38
+data/dani/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,30
+data/dani/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,27
+data/dani/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,34
+data/dani/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,30
+data/dani/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,25
+data/dani/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,34
+data/dani/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,38
+data/dani/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,28
+data/dani/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,32
+data/dani/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,26
+data/dani/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,32
+data/dani/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,38
+data/dani/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,30
+data/dani/raw_landmarks/Resep Obat Sakit Perut_13.parquet,sakit,38
+data/dani/raw_landmarks/Resep Obat Sakit Perut_14.parquet,perut,21
+data/dani/raw_landmarks/Resep Obat Sakit Perut_15.parquet,resep,34
+data/dani/raw_landmarks/Resep Obat Sakit Perut_16.parquet,obat,26
+data/dani/raw_landmarks/Resep Obat Sakit Perut_17.parquet,sakit,40
+data/dani/raw_landmarks/Resep Obat Sakit Perut_18.parquet,perut,33
+data/dani/raw_landmarks/Resep Obat Sakit Perut_19.parquet,resep,32
+data/dani/raw_landmarks/Resep Obat Sakit Perut_20.parquet,obat,34
+data/dani/raw_landmarks/Resep Obat Sakit Perut_21.parquet,sakit,37
+data/dani/raw_landmarks/Resep Obat Sakit Perut_22.parquet,perut,26
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,49
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,40
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,37
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,46
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,37
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,32
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,34
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,48
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,41
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,29
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,39
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,44
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,37
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,26
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,29
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,40
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,38
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,25
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_20.parquet,minum,42
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_21.parquet,obat,39
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_22.parquet,sakit,26
+data/dzikri/raw_landmarks/Minum Obat Sakit Kepala_23.parquet,kepala,34
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,52
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,26
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,32
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,35
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,25
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,32
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,34
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,28
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,29
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,36
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,31
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,37
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,25
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_20.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_21.parquet,obat,36
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_22.parquet,sakit,27
+data/dzikri/raw_landmarks/Minum Obat Sakit Perut_23.parquet,perut,32
+data/dzikri/raw_landmarks/Minum Obat Batuk_0.parquet,minum,45
+data/dzikri/raw_landmarks/Minum Obat Batuk_1.parquet,obat,28
+data/dzikri/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,28
+data/dzikri/raw_landmarks/Minum Obat Batuk_3.parquet,minum,41
+data/dzikri/raw_landmarks/Minum Obat Batuk_4.parquet,obat,28
+data/dzikri/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,27
+data/dzikri/raw_landmarks/Minum Obat Batuk_6.parquet,minum,28
+data/dzikri/raw_landmarks/Minum Obat Batuk_7.parquet,obat,27
+data/dzikri/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,29
+data/dzikri/raw_landmarks/Minum Obat Batuk_9.parquet,minum,37
+data/dzikri/raw_landmarks/Minum Obat Batuk_10.parquet,obat,29
+data/dzikri/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,24
+data/dzikri/raw_landmarks/Minum Obat Batuk_12.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Batuk_13.parquet,obat,24
+data/dzikri/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,24
+data/dzikri/raw_landmarks/Minum Obat Demam_0.parquet,minum,40
+data/dzikri/raw_landmarks/Minum Obat Demam_1.parquet,obat,32
+data/dzikri/raw_landmarks/Minum Obat Demam_2.parquet,demam,31
+data/dzikri/raw_landmarks/Minum Obat Demam_3.parquet,minum,38
+data/dzikri/raw_landmarks/Minum Obat Demam_4.parquet,obat,25
+data/dzikri/raw_landmarks/Minum Obat Demam_5.parquet,demam,36
+data/dzikri/raw_landmarks/Minum Obat Demam_6.parquet,minum,48
+data/dzikri/raw_landmarks/Minum Obat Demam_7.parquet,obat,41
+data/dzikri/raw_landmarks/Minum Obat Demam_8.parquet,demam,31
+data/dzikri/raw_landmarks/Minum Obat Demam_9.parquet,minum,43
+data/dzikri/raw_landmarks/Minum Obat Demam_10.parquet,obat,34
+data/dzikri/raw_landmarks/Minum Obat Demam_11.parquet,demam,29
+data/dzikri/raw_landmarks/Minum Obat Demam_12.parquet,minum,45
+data/dzikri/raw_landmarks/Minum Obat Demam_13.parquet,obat,35
+data/dzikri/raw_landmarks/Minum Obat Demam_14.parquet,demam,29
+data/dzikri/raw_landmarks/Minum Obat Demam_15.parquet,minum,43
+data/dzikri/raw_landmarks/Minum Obat Demam_16.parquet,obat,26
+data/dzikri/raw_landmarks/Minum Obat Demam_17.parquet,demam,28
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,50
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,28
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,26
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,42
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,23
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,29
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,29
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,42
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,22
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,27
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,28
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,41
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,obat,25
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,sakit,27
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,gigi,27
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,minum,41
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,obat,25
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,sakit,30
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,gigi,24
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_20.parquet,minum,37
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_21.parquet,obat,31
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_22.parquet,sakit,24
+data/dzikri/raw_landmarks/Minum Obat Sakit Gigi_23.parquet,obat,24
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,33
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,33
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,42
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_4.parquet,obat,23
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_5.parquet,resep,37
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,31
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,37
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,27
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,30
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,26
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,37
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,22
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,34
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,22
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_17.parquet,obat,23
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_18.parquet,sakit,27
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_19.parquet,perut,40
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_20.parquet,resep,25
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_21.parquet,obat,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_22.parquet,sakit,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Perut_23.parquet,perut,34
+data/dzikri/raw_landmarks/Resep Obat Batuk_0.parquet,resep,35
+data/dzikri/raw_landmarks/Resep Obat Batuk_1.parquet,obat,30
+data/dzikri/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,32
+data/dzikri/raw_landmarks/Resep Obat Batuk_3.parquet,resep,35
+data/dzikri/raw_landmarks/Resep Obat Batuk_4.parquet,obat,32
+data/dzikri/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,31
+data/dzikri/raw_landmarks/Resep Obat Batuk_6.parquet,resep,32
+data/dzikri/raw_landmarks/Resep Obat Batuk_7.parquet,obat,33
+data/dzikri/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,33
+data/dzikri/raw_landmarks/Resep Obat Batuk_9.parquet,resep,31
+data/dzikri/raw_landmarks/Resep Obat Batuk_10.parquet,obat,38
+data/dzikri/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,38
+data/dzikri/raw_landmarks/Resep Obat Batuk_12.parquet,resep,33
+data/dzikri/raw_landmarks/Resep Obat Batuk_13.parquet,obat,27
+data/dzikri/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,33
+data/dzikri/raw_landmarks/Resep Obat Batuk_15.parquet,resep,33
+data/dzikri/raw_landmarks/Resep Obat Batuk_16.parquet,obat,28
+data/dzikri/raw_landmarks/Resep Obat Batuk_17.parquet,batuk,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,33
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,30
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,35
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,30
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,26
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,37
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,24
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,sakit,35
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,gigi,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,resep,23
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,obat,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,34
+data/dzikri/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,23
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,30
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,45
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,21
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,43
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,25
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,25
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,45
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,24
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,24
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,36
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,24
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,27
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,29
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,30
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,resep,23
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,obat,28
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,sakit,30
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_23.parquet,kepala,32
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_24.parquet,resep,23
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_25.parquet,obat,27
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_26.parquet,sakit,31
+data/dzikri/raw_landmarks/Resep Obat Sakit Kepala_27.parquet,kepala,34
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,44
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,41
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,45
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,25
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,43
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,44
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,22
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,42
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,43
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,42
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,26
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,39
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,41
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,39
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,24
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,41
+data/imam/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,38
+data/imam/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,47
+data/imam/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,39
+data/imam/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,40
+data/imam/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,50
+data/imam/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,24
+data/imam/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,40
+data/imam/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,40
+data/imam/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,22
+data/imam/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,46
+data/imam/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,29
+data/imam/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,50
+data/imam/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,24
+data/imam/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,38
+data/imam/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,31
+data/imam/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,42
+data/imam/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,39
+data/imam/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,37
+data/imam/raw_landmarks/Minum Obat Batuk_0.parquet,minum,42
+data/imam/raw_landmarks/Minum Obat Batuk_1.parquet,obat,29
+data/imam/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,26
+data/imam/raw_landmarks/Minum Obat Batuk_3.parquet,minum,37
+data/imam/raw_landmarks/Minum Obat Batuk_4.parquet,obat,26
+data/imam/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,28
+data/imam/raw_landmarks/Minum Obat Batuk_6.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Batuk_7.parquet,obat,29
+data/imam/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,30
+data/imam/raw_landmarks/Minum Obat Batuk_9.parquet,minum,45
+data/imam/raw_landmarks/Minum Obat Batuk_10.parquet,obat,24
+data/imam/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,33
+data/imam/raw_landmarks/Minum Obat Batuk_12.parquet,minum,41
+data/imam/raw_landmarks/Minum Obat Batuk_13.parquet,obat,20
+data/imam/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,37
+data/imam/raw_landmarks/Minum Obat Batuk_15.parquet,minum,46
+data/imam/raw_landmarks/Minum Obat Batuk_16.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Batuk_17.parquet,batuk,33
+data/imam/raw_landmarks/Minum Obat Batuk_18.parquet,minum,48
+data/imam/raw_landmarks/Minum Obat Batuk_19.parquet,obat,34
+data/imam/raw_landmarks/Minum Obat Batuk_20.parquet,batuk,30
+data/imam/raw_landmarks/Minum Obat Demam_0.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Demam_1.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Demam_2.parquet,demam,45
+data/imam/raw_landmarks/Minum Obat Demam_3.parquet,minum,48
+data/imam/raw_landmarks/Minum Obat Demam_4.parquet,obat,26
+data/imam/raw_landmarks/Minum Obat Demam_5.parquet,demam,41
+data/imam/raw_landmarks/Minum Obat Demam_6.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Demam_7.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Demam_8.parquet,demam,44
+data/imam/raw_landmarks/Minum Obat Demam_9.parquet,minum,57
+data/imam/raw_landmarks/Minum Obat Demam_10.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Demam_11.parquet,demam,39
+data/imam/raw_landmarks/Minum Obat Demam_12.parquet,minum,51
+data/imam/raw_landmarks/Minum Obat Demam_13.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Demam_14.parquet,demam,41
+data/imam/raw_landmarks/Minum Obat Demam_15.parquet,minum,51
+data/imam/raw_landmarks/Minum Obat Demam_16.parquet,obat,29
+data/imam/raw_landmarks/Minum Obat Demam_17.parquet,demam,40
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,23
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,40
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,45
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,44
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,29
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,39
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,40
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,43
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,26
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,40
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,42
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,47
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,obat,27
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,sakit,45
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,gigi,34
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,minum,43
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,obat,27
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,sakit,43
+data/imam/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,gigi,37
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,37
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,25
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,37
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,27
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,37
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,27
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,40
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,28
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,36
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,21
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,40
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,29
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,36
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,25
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,sakit,41
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,gigi,27
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,resep,37
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,obat,25
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,38
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,31
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_20.parquet,resep,39
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_21.parquet,obat,23
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_22.parquet,sakit,38
+data/imam/raw_landmarks/Resep Obat Sakit Gigi_23.parquet,gigi,29
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,39
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,31
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,41
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,42
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,42
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,32
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,36
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,46
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,35
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,31
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,42
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,46
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,34
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,31
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,39
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,43
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,38
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,29
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,40
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,47
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,resep,36
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,obat,28
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,sakit,40
+data/imam/raw_landmarks/Resep Obat Sakit Kepala_23.parquet,kepala,48
+data/imam/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,39
+data/imam/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,28
+data/imam/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,40
+data/imam/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,43
+data/imam/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,35
+data/imam/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,29
+data/imam/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,42
+data/imam/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,37
+data/imam/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,37
+data/imam/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,32
+data/imam/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,40
+data/imam/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,38
+data/imam/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,40
+data/imam/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,26
+data/imam/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,39
+data/imam/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,46
+data/imam/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,38
+data/imam/raw_landmarks/Resep Obat Sakit Perut_17.parquet,obat,29
+data/imam/raw_landmarks/Resep Obat Sakit Perut_18.parquet,sakit,42
+data/imam/raw_landmarks/Resep Obat Sakit Perut_19.parquet,perut,37
+data/imam/raw_landmarks/Resep Obat Sakit Perut_20.parquet,resep,32
+data/imam/raw_landmarks/Resep Obat Sakit Perut_21.parquet,obat,31
+data/imam/raw_landmarks/Resep Obat Sakit Perut_22.parquet,sakit,38
+data/imam/raw_landmarks/Resep Obat Sakit Perut_23.parquet,perut,36
+data/imam/raw_landmarks/Resep Obat Batuk_0.parquet,resep,33
+data/imam/raw_landmarks/Resep Obat Batuk_1.parquet,obat,33
+data/imam/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,30
+data/imam/raw_landmarks/Resep Obat Batuk_3.parquet,resep,43
+data/imam/raw_landmarks/Resep Obat Batuk_4.parquet,obat,32
+data/imam/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,34
+data/imam/raw_landmarks/Resep Obat Batuk_6.parquet,resep,44
+data/imam/raw_landmarks/Resep Obat Batuk_7.parquet,obat,37
+data/imam/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,30
+data/imam/raw_landmarks/Resep Obat Batuk_9.parquet,resep,40
+data/imam/raw_landmarks/Resep Obat Batuk_10.parquet,obat,33
+data/imam/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,31
+data/imam/raw_landmarks/Resep Obat Batuk_12.parquet,resep,36
+data/imam/raw_landmarks/Resep Obat Batuk_13.parquet,obat,33
+data/imam/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,40
+data/imam/raw_landmarks/Resep Obat Demam_0.parquet,resep,32
+data/imam/raw_landmarks/Resep Obat Demam_1.parquet,obat,26
+data/imam/raw_landmarks/Resep Obat Demam_2.parquet,demam,38
+data/imam/raw_landmarks/Resep Obat Demam_3.parquet,resep,38
+data/imam/raw_landmarks/Resep Obat Demam_4.parquet,obat,27
+data/imam/raw_landmarks/Resep Obat Demam_5.parquet,demam,34
+data/imam/raw_landmarks/Resep Obat Demam_6.parquet,resep,35
+data/imam/raw_landmarks/Resep Obat Demam_7.parquet,obat,25
+data/imam/raw_landmarks/Resep Obat Demam_8.parquet,demam,39
+data/imam/raw_landmarks/Resep Obat Demam_9.parquet,resep,33
+data/imam/raw_landmarks/Resep Obat Demam_10.parquet,obat,24
+data/imam/raw_landmarks/Resep Obat Demam_11.parquet,demam,40
+data/imam/raw_landmarks/Resep Obat Demam_12.parquet,resep,36
+data/imam/raw_landmarks/Resep Obat Demam_13.parquet,obat,27
+data/imam/raw_landmarks/Resep Obat Demam_14.parquet,demam,40
+data/imam/raw_landmarks/Resep Obat Demam_15.parquet,resep,35
+data/imam/raw_landmarks/Resep Obat Demam_16.parquet,obat,27
+data/imam/raw_landmarks/Resep Obat Demam_17.parquet,demam,39
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,43
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,27
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,40
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,28
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,38
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,27
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,39
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,31
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,37
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,35
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,42
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,30
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,46
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,sakit,37
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,gigi,29
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,obat,28
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,sakit,37
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,gigi,34
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,minum,49
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,obat,32
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_20.parquet,sakit,36
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_21.parquet,gigi,34
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_22.parquet,minum,46
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_23.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_24.parquet,sakit,47
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_25.parquet,gigi,33
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_26.parquet,minum,48
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_27.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_28.parquet,sakit,42
+data/jafar/raw_landmarks/Minum Obat Sakit Gigi_29.parquet,gigi,32
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,46
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,44
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,41
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,42
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,42
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,37
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,49
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,44
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,36
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,42
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,43
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,41
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,44
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,26
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,40
+data/jafar/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,40
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,43
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,28
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,46
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,45
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,46
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,29
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,42
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,43
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,41
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,31
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,48
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,38
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,53
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_13.parquet,sakit,40
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_14.parquet,perut,36
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_15.parquet,minum,65
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_16.parquet,obat,28
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_17.parquet,sakit,43
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_18.parquet,perut,47
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_19.parquet,minum,45
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_20.parquet,obat,32
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_21.parquet,sakit,45
+data/jafar/raw_landmarks/Minum Obat Sakit Perut_22.parquet,perut,56
+data/jafar/raw_landmarks/Minum Obat Batuk_0.parquet,minum,38
+data/jafar/raw_landmarks/Minum Obat Batuk_1.parquet,obat,33
+data/jafar/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,40
+data/jafar/raw_landmarks/Minum Obat Batuk_3.parquet,minum,39
+data/jafar/raw_landmarks/Minum Obat Batuk_4.parquet,obat,33
+data/jafar/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,38
+data/jafar/raw_landmarks/Minum Obat Batuk_6.parquet,minum,41
+data/jafar/raw_landmarks/Minum Obat Batuk_7.parquet,obat,32
+data/jafar/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,35
+data/jafar/raw_landmarks/Minum Obat Batuk_9.parquet,minum,36
+data/jafar/raw_landmarks/Minum Obat Batuk_10.parquet,obat,34
+data/jafar/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,32
+data/jafar/raw_landmarks/Minum Obat Batuk_12.parquet,minum,39
+data/jafar/raw_landmarks/Minum Obat Batuk_13.parquet,obat,31
+data/jafar/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,36
+data/jafar/raw_landmarks/Minum Obat Demam_0.parquet,minum,47
+data/jafar/raw_landmarks/Minum Obat Demam_1.parquet,obat,28
+data/jafar/raw_landmarks/Minum Obat Demam_2.parquet,demam,51
+data/jafar/raw_landmarks/Minum Obat Demam_3.parquet,minum,42
+data/jafar/raw_landmarks/Minum Obat Demam_4.parquet,obat,30
+data/jafar/raw_landmarks/Minum Obat Demam_5.parquet,demam,53
+data/jafar/raw_landmarks/Minum Obat Demam_6.parquet,minum,46
+data/jafar/raw_landmarks/Minum Obat Demam_7.parquet,obat,30
+data/jafar/raw_landmarks/Minum Obat Demam_8.parquet,demam,49
+data/jafar/raw_landmarks/Minum Obat Demam_9.parquet,minum,51
+data/jafar/raw_landmarks/Minum Obat Demam_10.parquet,obat,30
+data/jafar/raw_landmarks/Minum Obat Demam_11.parquet,demam,46
+data/jafar/raw_landmarks/Minum Obat Demam_12.parquet,minum,61
+data/jafar/raw_landmarks/Minum Obat Demam_13.parquet,obat,31
+data/jafar/raw_landmarks/Minum Obat Demam_14.parquet,demam,53
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,44
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,40
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,55
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,36
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,46
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,34
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,54
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,45
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,46
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,42
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,53
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,40
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,42
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,35
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,sakit,50
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,gigi,34
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,resep,39
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,obat,37
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,55
+data/jafar/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,38
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,45
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,37
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,52
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,45
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,25
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,29
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,44
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,41
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,32
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,46
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,41
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,32
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,27
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,44
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,39
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,34
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,52
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,43
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,resep,36
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,sakit,44
+data/jafar/raw_landmarks/Resep Obat Sakit Kepala_23.parquet,kepala,40
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,41
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,41
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,47
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,27
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,30
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,44
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,47
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,31
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,45
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,47
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,35
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,29
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,45
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,44
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,31
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_17.parquet,obat,32
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_18.parquet,sakit,42
+data/jafar/raw_landmarks/Resep Obat Sakit Perut_19.parquet,perut,46
+data/jafar/raw_landmarks/Resep Obat Batuk_0.parquet,resep,41
+data/jafar/raw_landmarks/Resep Obat Batuk_1.parquet,obat,42
+data/jafar/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,38
+data/jafar/raw_landmarks/Resep Obat Batuk_3.parquet,resep,45
+data/jafar/raw_landmarks/Resep Obat Batuk_4.parquet,obat,34
+data/jafar/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,37
+data/jafar/raw_landmarks/Resep Obat Batuk_6.parquet,resep,54
+data/jafar/raw_landmarks/Resep Obat Batuk_7.parquet,obat,34
+data/jafar/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,37
+data/jafar/raw_landmarks/Resep Obat Batuk_9.parquet,resep,52
+data/jafar/raw_landmarks/Resep Obat Batuk_10.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,40
+data/jafar/raw_landmarks/Resep Obat Batuk_12.parquet,resep,47
+data/jafar/raw_landmarks/Resep Obat Batuk_13.parquet,obat,32
+data/jafar/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,44
+data/jafar/raw_landmarks/Resep Obat Demam_0.parquet,resep,37
+data/jafar/raw_landmarks/Resep Obat Demam_1.parquet,obat,33
+data/jafar/raw_landmarks/Resep Obat Demam_2.parquet,demam,38
+data/jafar/raw_landmarks/Resep Obat Demam_3.parquet,resep,37
+data/jafar/raw_landmarks/Resep Obat Demam_4.parquet,obat,35
+data/jafar/raw_landmarks/Resep Obat Demam_5.parquet,demam,43
+data/jafar/raw_landmarks/Resep Obat Demam_6.parquet,resep,45
+data/jafar/raw_landmarks/Resep Obat Demam_7.parquet,obat,33
+data/jafar/raw_landmarks/Resep Obat Demam_8.parquet,demam,38
+data/jafar/raw_landmarks/Resep Obat Demam_9.parquet,resep,37
+data/jafar/raw_landmarks/Resep Obat Demam_10.parquet,obat,31
+data/jafar/raw_landmarks/Resep Obat Demam_11.parquet,demam,40
+data/jafar/raw_landmarks/Resep Obat Demam_12.parquet,resep,34
+data/jafar/raw_landmarks/Resep Obat Demam_13.parquet,obat,33
+data/jafar/raw_landmarks/Resep Obat Demam_14.parquet,demam,37
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,41
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,29
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,52
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,38
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,55
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,51
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,obat,50
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,38
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,54
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,49
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,55
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,36
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,61
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,obat,44
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,sakit,57
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,gigi,36
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,minum,58
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,obat,43
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,sakit,46
+data/joy/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,gigi,48
+data/joy/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,45
+data/joy/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,43
+data/joy/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,56
+data/joy/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,44
+data/joy/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,54
+data/joy/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,55
+data/joy/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,53
+data/joy/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,44
+data/joy/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,52
+data/joy/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,44
+data/joy/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,59
+data/joy/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,48
+data/joy/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,47
+data/joy/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,46
+data/joy/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,60
+data/joy/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,55
+data/joy/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,53
+data/joy/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,42
+data/joy/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,56
+data/joy/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,41
+data/joy/raw_landmarks/Resep Obat Batuk_0.parquet,resep,37
+data/joy/raw_landmarks/Resep Obat Batuk_1.parquet,obat,31
+data/joy/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,41
+data/joy/raw_landmarks/Resep Obat Batuk_3.parquet,resep,46
+data/joy/raw_landmarks/Resep Obat Batuk_4.parquet,obat,27
+data/joy/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,36
+data/joy/raw_landmarks/Resep Obat Batuk_6.parquet,resep,40
+data/joy/raw_landmarks/Resep Obat Batuk_7.parquet,obat,30
+data/joy/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,33
+data/joy/raw_landmarks/Resep Obat Batuk_9.parquet,resep,36
+data/joy/raw_landmarks/Resep Obat Batuk_10.parquet,obat,36
+data/joy/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,34
+data/joy/raw_landmarks/Resep Obat Batuk_12.parquet,resep,35
+data/joy/raw_landmarks/Resep Obat Batuk_13.parquet,obat,39
+data/joy/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,36
+data/joy/raw_landmarks/Minum Obat Batuk_0.parquet,minum,58
+data/joy/raw_landmarks/Minum Obat Batuk_1.parquet,obat,48
+data/joy/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,49
+data/joy/raw_landmarks/Minum Obat Batuk_3.parquet,minum,64
+data/joy/raw_landmarks/Minum Obat Batuk_4.parquet,obat,42
+data/joy/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,48
+data/joy/raw_landmarks/Minum Obat Batuk_6.parquet,minum,58
+data/joy/raw_landmarks/Minum Obat Batuk_7.parquet,obat,56
+data/joy/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,50
+data/joy/raw_landmarks/Minum Obat Batuk_9.parquet,minum,48
+data/joy/raw_landmarks/Minum Obat Batuk_10.parquet,obat,49
+data/joy/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,45
+data/joy/raw_landmarks/Minum Obat Batuk_12.parquet,minum,48
+data/joy/raw_landmarks/Minum Obat Batuk_13.parquet,obat,52
+data/joy/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,50
+data/joy/raw_landmarks/Minum Obat Batuk_15.parquet,minum,49
+data/joy/raw_landmarks/Minum Obat Batuk_16.parquet,obat,51
+data/joy/raw_landmarks/Minum Obat Batuk_17.parquet,minum,43
+data/joy/raw_landmarks/Minum Obat Batuk_18.parquet,obat,50
+data/joy/raw_landmarks/Minum Obat Batuk_19.parquet,batuk,65
+data/joy/raw_landmarks/Minum Obat Demam_0.parquet,minum,47
+data/joy/raw_landmarks/Minum Obat Demam_1.parquet,obat,43
+data/joy/raw_landmarks/Minum Obat Demam_2.parquet,demam,46
+data/joy/raw_landmarks/Minum Obat Demam_3.parquet,minum,48
+data/joy/raw_landmarks/Minum Obat Demam_4.parquet,obat,48
+data/joy/raw_landmarks/Minum Obat Demam_5.parquet,demam,44
+data/joy/raw_landmarks/Minum Obat Demam_6.parquet,minum,49
+data/joy/raw_landmarks/Minum Obat Demam_7.parquet,obat,50
+data/joy/raw_landmarks/Minum Obat Demam_8.parquet,demam,45
+data/joy/raw_landmarks/Minum Obat Demam_9.parquet,minum,50
+data/joy/raw_landmarks/Minum Obat Demam_10.parquet,obat,42
+data/joy/raw_landmarks/Minum Obat Demam_11.parquet,demam,55
+data/joy/raw_landmarks/Minum Obat Demam_12.parquet,minum,52
+data/joy/raw_landmarks/Minum Obat Demam_13.parquet,obat,45
+data/joy/raw_landmarks/Minum Obat Demam_14.parquet,demam,43
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,51
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,41
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,50
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,61
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,50
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,48
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,56
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,71
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,52
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,46
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,63
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,61
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,57
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,48
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,57
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,57
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,59
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,51
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,57
+data/joy/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,53
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,40
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,35
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,43
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,37
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,43
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,32
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,48
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,resep,38
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,obat,32
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,sakit,49
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,gigi,37
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,resep,38
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,obat,37
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,sakit,49
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,gigi,35
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,resep,41
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,obat,34
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,sakit,46
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,gigi,40
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,resep,40
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_20.parquet,obat,29
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_21.parquet,sakit,44
+data/joy/raw_landmarks/Resep Obat Sakit Gigi_22.parquet,gigi,38
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,38
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,35
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,50
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,47
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,37
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,31
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,46
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,44
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,47
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,45
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,49
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,50
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,39
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,39
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,57
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,46
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,48
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,40
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,58
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,47
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,resep,47
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,obat,36
+data/joy/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,sakit,50
+data/joy/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,49
+data/joy/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,31
+data/joy/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,43
+data/joy/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,36
+data/joy/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,48
+data/joy/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,40
+data/joy/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,53
+data/joy/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,43
+data/joy/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,54
+data/joy/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,31
+data/joy/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,54
+data/joy/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,34
+data/joy/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,51
+data/joy/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,36
+data/joy/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,34
+data/joy/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,41
+data/joy/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,56
+data/joy/raw_landmarks/Resep Obat Sakit Perut_17.parquet,obat,48
+data/joy/raw_landmarks/Resep Obat Sakit Perut_18.parquet,sakit,57
+data/joy/raw_landmarks/Resep Obat Sakit Perut_19.parquet,perut,39
+data/joy/raw_landmarks/Resep Obat Demam_0.parquet,resep,41
+data/joy/raw_landmarks/Resep Obat Demam_1.parquet,obat,20
+data/joy/raw_landmarks/Resep Obat Demam_2.parquet,demam,37
+data/joy/raw_landmarks/Resep Obat Demam_3.parquet,resep,33
+data/joy/raw_landmarks/Resep Obat Demam_4.parquet,obat,36
+data/joy/raw_landmarks/Resep Obat Demam_5.parquet,demam,35
+data/joy/raw_landmarks/Resep Obat Demam_6.parquet,resep,42
+data/joy/raw_landmarks/Resep Obat Demam_7.parquet,obat,26
+data/joy/raw_landmarks/Resep Obat Demam_8.parquet,demam,44
+data/joy/raw_landmarks/Resep Obat Demam_9.parquet,resep,39
+data/joy/raw_landmarks/Resep Obat Demam_10.parquet,obat,37
+data/joy/raw_landmarks/Resep Obat Demam_11.parquet,demam,34
+data/joy/raw_landmarks/Resep Obat Demam_12.parquet,resep,38
+data/joy/raw_landmarks/Resep Obat Demam_13.parquet,obat,29
+data/joy/raw_landmarks/Resep Obat Demam_14.parquet,demam,40
+data/joy/raw_landmarks/Resep Obat Demam_15.parquet,resep,41
+data/joy/raw_landmarks/Resep Obat Demam_16.parquet,obat,34
+data/joy/raw_landmarks/Resep Obat Demam_17.parquet,demam,45
+data/joy/raw_landmarks/Resep Obat Demam_18.parquet,resep,34
+data/joy/raw_landmarks/Resep Obat Demam_19.parquet,obat,26
+data/labob/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,55
+data/labob/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,32
+data/labob/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,26
+data/labob/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,30
+data/labob/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,53
+data/labob/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,36
+data/labob/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,25
+data/labob/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,46
+data/labob/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,47
+data/labob/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,39
+data/labob/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,28
+data/labob/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,52
+data/labob/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,47
+data/labob/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,36
+data/labob/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,27
+data/labob/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,49
+data/labob/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,43
+data/labob/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,40
+data/labob/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,29
+data/labob/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,15
+data/labob/raw_landmarks/Minum Obat Batuk_0.parquet,minum,47
+data/labob/raw_landmarks/Minum Obat Batuk_1.parquet,obat,46
+data/labob/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,57
+data/labob/raw_landmarks/Minum Obat Batuk_3.parquet,minum,55
+data/labob/raw_landmarks/Minum Obat Batuk_4.parquet,obat,71
+data/labob/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,49
+data/labob/raw_landmarks/Minum Obat Batuk_6.parquet,minum,57
+data/labob/raw_landmarks/Minum Obat Batuk_7.parquet,obat,62
+data/labob/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,43
+data/labob/raw_landmarks/Minum Obat Batuk_9.parquet,minum,52
+data/labob/raw_landmarks/Minum Obat Batuk_10.parquet,obat,52
+data/labob/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,40
+data/labob/raw_landmarks/Minum Obat Batuk_12.parquet,minum,59
+data/labob/raw_landmarks/Minum Obat Batuk_13.parquet,obat,45
+data/labob/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,43
+data/labob/raw_landmarks/Minum Obat Demam_0.parquet,minum,56
+data/labob/raw_landmarks/Minum Obat Demam_1.parquet,obat,35
+data/labob/raw_landmarks/Minum Obat Demam_2.parquet,demam,41
+data/labob/raw_landmarks/Minum Obat Demam_3.parquet,minum,57
+data/labob/raw_landmarks/Minum Obat Demam_4.parquet,obat,41
+data/labob/raw_landmarks/Minum Obat Demam_5.parquet,demam,44
+data/labob/raw_landmarks/Minum Obat Demam_6.parquet,minum,56
+data/labob/raw_landmarks/Minum Obat Demam_7.parquet,obat,45
+data/labob/raw_landmarks/Minum Obat Demam_8.parquet,demam,49
+data/labob/raw_landmarks/Minum Obat Demam_9.parquet,minum,58
+data/labob/raw_landmarks/Minum Obat Demam_10.parquet,obat,40
+data/labob/raw_landmarks/Minum Obat Demam_11.parquet,demam,32
+data/labob/raw_landmarks/Minum Obat Demam_12.parquet,minum,42
+data/labob/raw_landmarks/Minum Obat Demam_13.parquet,obat,41
+data/labob/raw_landmarks/Minum Obat Demam_14.parquet,demam,51
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,77
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,47
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,38
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,55
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,46
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,41
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,35
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,54
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,53
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,39
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,33
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,46
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,50
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,obat,38
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,sakit,33
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,gigi,42
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,minum,47
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,obat,42
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,sakit,30
+data/labob/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,gigi,39
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,63
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,40
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,37
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,43
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,52
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,43
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,35
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,41
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,51
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,40
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,31
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,40
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,54
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,41
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,31
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,43
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,48
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,37
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,30
+data/labob/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,35
+data/labob/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,36
+data/labob/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,42
+data/labob/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,37
+data/labob/raw_landmarks/Resep Obat Sakit Perut_3.parquet,resep,35
+data/labob/raw_landmarks/Resep Obat Sakit Perut_4.parquet,obat,52
+data/labob/raw_landmarks/Resep Obat Sakit Perut_5.parquet,sakit,36
+data/labob/raw_landmarks/Resep Obat Sakit Perut_6.parquet,perut,52
+data/labob/raw_landmarks/Resep Obat Sakit Perut_7.parquet,resep,36
+data/labob/raw_landmarks/Resep Obat Sakit Perut_8.parquet,obat,51
+data/labob/raw_landmarks/Resep Obat Sakit Perut_9.parquet,sakit,33
+data/labob/raw_landmarks/Resep Obat Sakit Perut_10.parquet,perut,44
+data/labob/raw_landmarks/Resep Obat Sakit Perut_11.parquet,resep,37
+data/labob/raw_landmarks/Resep Obat Sakit Perut_12.parquet,obat,49
+data/labob/raw_landmarks/Resep Obat Sakit Perut_13.parquet,sakit,35
+data/labob/raw_landmarks/Resep Obat Sakit Perut_14.parquet,perut,45
+data/labob/raw_landmarks/Resep Obat Sakit Perut_15.parquet,resep,32
+data/labob/raw_landmarks/Resep Obat Sakit Perut_16.parquet,obat,48
+data/labob/raw_landmarks/Resep Obat Sakit Perut_17.parquet,sakit,39
+data/labob/raw_landmarks/Resep Obat Sakit Perut_18.parquet,perut,49
+data/labob/raw_landmarks/Resep Obat Batuk_0.parquet,resep,58
+data/labob/raw_landmarks/Resep Obat Batuk_1.parquet,obat,50
+data/labob/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,34
+data/labob/raw_landmarks/Resep Obat Batuk_3.parquet,resep,46
+data/labob/raw_landmarks/Resep Obat Batuk_4.parquet,obat,37
+data/labob/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,28
+data/labob/raw_landmarks/Resep Obat Batuk_6.parquet,resep,47
+data/labob/raw_landmarks/Resep Obat Batuk_7.parquet,obat,33
+data/labob/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,49
+data/labob/raw_landmarks/Resep Obat Batuk_9.parquet,resep,38
+data/labob/raw_landmarks/Resep Obat Batuk_10.parquet,obat,37
+data/labob/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,50
+data/labob/raw_landmarks/Resep Obat Batuk_12.parquet,resep,39
+data/labob/raw_landmarks/Resep Obat Batuk_13.parquet,obat,34
+data/labob/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,49
+data/labob/raw_landmarks/Resep Obat Batuk_15.parquet,resep,55
+data/labob/raw_landmarks/Resep Obat Demam_0.parquet,resep,51
+data/labob/raw_landmarks/Resep Obat Demam_1.parquet,obat,39
+data/labob/raw_landmarks/Resep Obat Demam_2.parquet,demam,40
+data/labob/raw_landmarks/Resep Obat Demam_3.parquet,resep,37
+data/labob/raw_landmarks/Resep Obat Demam_4.parquet,obat,46
+data/labob/raw_landmarks/Resep Obat Demam_5.parquet,demam,35
+data/labob/raw_landmarks/Resep Obat Demam_6.parquet,resep,41
+data/labob/raw_landmarks/Resep Obat Demam_7.parquet,demam,35
+data/labob/raw_landmarks/Resep Obat Demam_8.parquet,resep,41
+data/labob/raw_landmarks/Resep Obat Demam_9.parquet,obat,43
+data/labob/raw_landmarks/Resep Obat Demam_10.parquet,demam,42
+data/labob/raw_landmarks/Resep Obat Demam_11.parquet,resep,48
+data/labob/raw_landmarks/Resep Obat Demam_12.parquet,obat,47
+data/labob/raw_landmarks/Resep Obat Demam_13.parquet,demam,60
+data/labob/raw_landmarks/Resep Obat Demam_14.parquet,resep,45
+data/labob/raw_landmarks/Resep Obat Demam_15.parquet,obat,64
+data/labob/raw_landmarks/Resep Obat Demam_16.parquet,demam,46
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,39
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,28
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,33
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,40
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,42
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,46
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,43
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,44
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,39
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,47
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,41
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,50
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,36
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,43
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,sakit,37
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,gigi,52
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,resep,44
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,obat,46
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,58
+data/labob/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,56
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,55
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,48
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,35
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,46
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,43
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,51
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,38
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,50
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,42
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,49
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,37
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,43
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,43
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,50
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,40
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,36
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,37
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,48
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,35
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,55
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,resep,40
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,obat,51
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,sakit,38
+data/labob/raw_landmarks/Resep Obat Sakit Kepala_23.parquet,kepala,52
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_0.parquet,minum,30
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_1.parquet,obat,26
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_2.parquet,sakit,26
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_3.parquet,gigi,21
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_4.parquet,minum,29
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_5.parquet,obat,25
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_6.parquet,sakit,24
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_7.parquet,gigi,25
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_8.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_9.parquet,obat,21
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_10.parquet,sakit,26
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_11.parquet,gigi,24
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_12.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_13.parquet,obat,22
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_14.parquet,sakit,30
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_15.parquet,gigi,28
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_16.parquet,minum,32
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_17.parquet,obat,30
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_18.parquet,sakit,29
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_19.parquet,gigi,24
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_20.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_21.parquet,obat,22
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_22.parquet,sakit,26
+data/rifky/raw_landmarks/Minum Obat Saki Gigi_23.parquet,gigi,31
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,40
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,22
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,36
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,28
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,36
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,30
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,29
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,30
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,41
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,22
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,30
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,35
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,22
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,32
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,29
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,minum,33
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,obat,24
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,sakit,27
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,kepala,31
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_20.parquet,minum,32
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_21.parquet,obat,25
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_22.parquet,sakit,36
+data/rifky/raw_landmarks/Minum Obat Sakit Kepala_23.parquet,kepala,31
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,37
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,24
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,31
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,21
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,39
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,23
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,30
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,25
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,39
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,26
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,28
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,30
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,36
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,18
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,29
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_15.parquet,perut,26
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_16.parquet,minum,33
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_17.parquet,obat,21
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_18.parquet,sakit,29
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_19.parquet,perut,25
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_20.parquet,minum,37
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_21.parquet,obat,17
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_22.parquet,sakit,34
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_23.parquet,perut,26
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_24.parquet,minum,36
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_25.parquet,obat,16
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_26.parquet,sakit,26
+data/rifky/raw_landmarks/Minum Obat Sakit Perut_27.parquet,perut,29
+data/rifky/raw_landmarks/Minum Obat Batuk_0.parquet,minum,33
+data/rifky/raw_landmarks/Minum Obat Batuk_1.parquet,obat,25
+data/rifky/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,25
+data/rifky/raw_landmarks/Minum Obat Batuk_3.parquet,minum,36
+data/rifky/raw_landmarks/Minum Obat Batuk_4.parquet,obat,27
+data/rifky/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,22
+data/rifky/raw_landmarks/Minum Obat Batuk_6.parquet,minum,36
+data/rifky/raw_landmarks/Minum Obat Batuk_7.parquet,obat,24
+data/rifky/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,24
+data/rifky/raw_landmarks/Minum Obat Batuk_9.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Batuk_10.parquet,obat,25
+data/rifky/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,22
+data/rifky/raw_landmarks/Minum Obat Batuk_12.parquet,minum,35
+data/rifky/raw_landmarks/Minum Obat Batuk_13.parquet,obat,26
+data/rifky/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,23
+data/rifky/raw_landmarks/Minum Obat Batuk_15.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Batuk_16.parquet,obat,24
+data/rifky/raw_landmarks/Minum Obat Batuk_17.parquet,batuk,18
+data/rifky/raw_landmarks/Minum Obat Demam_0.parquet,minum,34
+data/rifky/raw_landmarks/Minum Obat Demam_1.parquet,obat,27
+data/rifky/raw_landmarks/Minum Obat Demam_2.parquet,demam,27
+data/rifky/raw_landmarks/Minum Obat Demam_3.parquet,minum,36
+data/rifky/raw_landmarks/Minum Obat Demam_4.parquet,obat,24
+data/rifky/raw_landmarks/Minum Obat Demam_5.parquet,demam,26
+data/rifky/raw_landmarks/Minum Obat Demam_6.parquet,minum,38
+data/rifky/raw_landmarks/Minum Obat Demam_7.parquet,obat,22
+data/rifky/raw_landmarks/Minum Obat Demam_8.parquet,demam,31
+data/rifky/raw_landmarks/Minum Obat Demam_9.parquet,minum,41
+data/rifky/raw_landmarks/Minum Obat Demam_10.parquet,obat,24
+data/rifky/raw_landmarks/Minum Obat Demam_11.parquet,demam,30
+data/rifky/raw_landmarks/Minum Obat Demam_12.parquet,minum,37
+data/rifky/raw_landmarks/Minum Obat Demam_13.parquet,obat,20
+data/rifky/raw_landmarks/Minum Obat Demam_14.parquet,demam,26
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,28
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,20
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,33
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,29
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,39
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,25
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,30
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,26
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,37
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,25
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,31
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,24
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,35
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,21
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,sakit,30
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,gigi,28
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,resep,33
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,obat,20
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,31
+data/rifky/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,25
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,29
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,21
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,32
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,28
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,34
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,24
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,28
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,30
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,29
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,21
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,26
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,33
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,21
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,25
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,26
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,30
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,29
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,26
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,kepala,30
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,resep,25
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_20.parquet,obat,18
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_21.parquet,sakit,32
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_22.parquet,kepala,31
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_23.parquet,resep,26
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_24.parquet,obat,22
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_25.parquet,sakit,27
+data/rifky/raw_landmarks/Resep Obat Sakit Kepala_26.parquet,kepala,27
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,22
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,22
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,27
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,25
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,27
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,25
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,32
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,25
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,24
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,20
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,29
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,25
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,24
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,19
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,28
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,23
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,26
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_17.parquet,sakit,25
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_18.parquet,perut,20
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_19.parquet,resep,25
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_20.parquet,obat,17
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_21.parquet,sakit,24
+data/rifky/raw_landmarks/Resep Obat Sakit Perut_22.parquet,perut,26
+data/rifky/raw_landmarks/Resep Obat Batuk_0.parquet,resep,37
+data/rifky/raw_landmarks/Resep Obat Batuk_1.parquet,obat,27
+data/rifky/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,21
+data/rifky/raw_landmarks/Resep Obat Batuk_3.parquet,resep,34
+data/rifky/raw_landmarks/Resep Obat Batuk_4.parquet,obat,26
+data/rifky/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,18
+data/rifky/raw_landmarks/Resep Obat Batuk_6.parquet,resep,33
+data/rifky/raw_landmarks/Resep Obat Batuk_7.parquet,obat,27
+data/rifky/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,14
+data/rifky/raw_landmarks/Resep Obat Batuk_9.parquet,resep,31
+data/rifky/raw_landmarks/Resep Obat Batuk_10.parquet,obat,25
+data/rifky/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,17
+data/rifky/raw_landmarks/Resep Obat Batuk_12.parquet,resep,30
+data/rifky/raw_landmarks/Resep Obat Batuk_13.parquet,obat,28
+data/rifky/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,21
+data/rifky/raw_landmarks/Resep Obat Demam_0.parquet,resep,25
+data/rifky/raw_landmarks/Resep Obat Demam_1.parquet,obat,22
+data/rifky/raw_landmarks/Resep Obat Demam_2.parquet,demam,30
+data/rifky/raw_landmarks/Resep Obat Demam_3.parquet,resep,30
+data/rifky/raw_landmarks/Resep Obat Demam_4.parquet,obat,22
+data/rifky/raw_landmarks/Resep Obat Demam_5.parquet,demam,31
+data/rifky/raw_landmarks/Resep Obat Demam_6.parquet,resep,35
+data/rifky/raw_landmarks/Resep Obat Demam_7.parquet,obat,18
+data/rifky/raw_landmarks/Resep Obat Demam_8.parquet,demam,30
+data/rifky/raw_landmarks/Resep Obat Demam_9.parquet,resep,32
+data/rifky/raw_landmarks/Resep Obat Demam_10.parquet,obat,20
+data/rifky/raw_landmarks/Resep Obat Demam_11.parquet,demam,32
+data/rifky/raw_landmarks/Resep Obat Demam_12.parquet,resep,36
+data/rifky/raw_landmarks/Resep Obat Demam_13.parquet,obat,23
+data/rifky/raw_landmarks/Resep Obat Demam_14.parquet,demam,30
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,28
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,22
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,29
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,32
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,38
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,18
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,29
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,32
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,24
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,18
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,26
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,31
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,24
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,22
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,26
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,37
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,30
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,19
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,27
+data/wildan/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,33
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_0.parquet,minum,34
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_1.parquet,obat,18
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_2.parquet,sakit,33
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_3.parquet,gigi,25
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_4.parquet,minum,29
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_5.parquet,obat,19
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_6.parquet,sakit,41
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_7.parquet,gigi,25
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_8.parquet,minum,29
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_9.parquet,obat,16
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_10.parquet,sakit,26
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_11.parquet,gigi,30
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_12.parquet,minum,35
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_13.parquet,obat,17
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_14.parquet,sakit,29
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_15.parquet,gigi,25
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_16.parquet,minum,38
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_17.parquet,obat,20
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_18.parquet,sakit,28
+data/wildan/raw_landmarks/Minum Obat Sakit Gigi_19.parquet,gigi,28
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,31
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,17
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,25
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,38
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,28
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,16
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,20
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,35
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,29
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,18
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,24
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,33
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,27
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,minum,30
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,obat,12
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,sakit,30
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,kepala,36
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,minum,32
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_20.parquet,sakit,21
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_21.parquet,kepala,28
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_22.parquet,minum,33
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_23.parquet,obat,13
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_24.parquet,sakit,22
+data/wildan/raw_landmarks/Minum Obat Sakit Kepala_25.parquet,kepala,33
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,39
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,15
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,28
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,36
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,23
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,13
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,21
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,25
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,29
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_10.parquet,sakit,26
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_11.parquet,perut,22
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_12.parquet,minum,30
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_13.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_14.parquet,sakit,25
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_15.parquet,minum,40
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_16.parquet,obat,11
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_17.parquet,sakit,30
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_18.parquet,perut,30
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_19.parquet,minum,33
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_20.parquet,obat,22
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_21.parquet,sakit,26
+data/wildan/raw_landmarks/Minum Obat Sakit Perut_22.parquet,perut,23
+data/wildan/raw_landmarks/Resep Obat Batuk_0.parquet,resep,25
+data/wildan/raw_landmarks/Resep Obat Batuk_1.parquet,obat,21
+data/wildan/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,23
+data/wildan/raw_landmarks/Resep Obat Batuk_3.parquet,resep,23
+data/wildan/raw_landmarks/Resep Obat Batuk_4.parquet,obat,19
+data/wildan/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,23
+data/wildan/raw_landmarks/Resep Obat Batuk_6.parquet,resep,20
+data/wildan/raw_landmarks/Resep Obat Batuk_7.parquet,obat,19
+data/wildan/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,15
+data/wildan/raw_landmarks/Resep Obat Batuk_9.parquet,resep,20
+data/wildan/raw_landmarks/Resep Obat Batuk_10.parquet,obat,17
+data/wildan/raw_landmarks/Resep Obat Batuk_11.parquet,batuk,21
+data/wildan/raw_landmarks/Resep Obat Batuk_12.parquet,resep,22
+data/wildan/raw_landmarks/Resep Obat Batuk_13.parquet,obat,22
+data/wildan/raw_landmarks/Resep Obat Batuk_14.parquet,batuk,20
+data/wildan/raw_landmarks/Resep Obat Batuk_15.parquet,resep,20
+data/wildan/raw_landmarks/Resep Obat Batuk_16.parquet,obat,16
+data/wildan/raw_landmarks/Resep Obat Batuk_17.parquet,batuk,20
+data/wildan/raw_landmarks/Resep Obat Demam_0.parquet,resep,22
+data/wildan/raw_landmarks/Resep Obat Demam_1.parquet,obat,15
+data/wildan/raw_landmarks/Resep Obat Demam_2.parquet,demam,25
+data/wildan/raw_landmarks/Resep Obat Demam_3.parquet,resep,27
+data/wildan/raw_landmarks/Resep Obat Demam_4.parquet,obat,23
+data/wildan/raw_landmarks/Resep Obat Demam_5.parquet,demam,23
+data/wildan/raw_landmarks/Resep Obat Demam_6.parquet,resep,20
+data/wildan/raw_landmarks/Resep Obat Demam_7.parquet,obat,18
+data/wildan/raw_landmarks/Resep Obat Demam_8.parquet,demam,22
+data/wildan/raw_landmarks/Resep Obat Demam_9.parquet,resep,18
+data/wildan/raw_landmarks/Resep Obat Demam_10.parquet,obat,16
+data/wildan/raw_landmarks/Resep Obat Demam_11.parquet,demam,25
+data/wildan/raw_landmarks/Resep Obat Demam_12.parquet,resep,21
+data/wildan/raw_landmarks/Resep Obat Demam_13.parquet,obat,17
+data/wildan/raw_landmarks/Resep Obat Demam_14.parquet,demam,25
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,22
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,19
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,sakit,26
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,gigi,24
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,resep,24
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,obat,17
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,sakit,26
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,gigi,19
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,resep,22
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,obat,17
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,sakit,32
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,22
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,17
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,16
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,sakit,28
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,gigi,25
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,resep,19
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,obat,15
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,sakit,29
+data/wildan/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,27
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_0.parquet,resep,23
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_1.parquet,obat,18
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_2.parquet,sakit,33
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_3.parquet,perut,27
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_4.parquet,resep,26
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_5.parquet,obat,24
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_6.parquet,sakit,27
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_7.parquet,perut,23
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_8.parquet,resep,23
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_9.parquet,obat,14
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_10.parquet,sakit,28
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_11.parquet,perut,25
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_12.parquet,resep,23
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_13.parquet,obat,14
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_14.parquet,sakit,28
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_15.parquet,perut,22
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_16.parquet,resep,24
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_17.parquet,obat,14
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_18.parquet,sakit,34
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_19.parquet,sakit,26
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_20.parquet,sakit,11
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_21.parquet,sakit,29
+data/wildan/raw_landmarks/Resep Obat Sakit Perut_22.parquet,perut,27
+data/wildan/raw_landmarks/Minum Obat Batuk_0.parquet,minum,30
+data/wildan/raw_landmarks/Minum Obat Batuk_1.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,18
+data/wildan/raw_landmarks/Minum Obat Batuk_3.parquet,minum,35
+data/wildan/raw_landmarks/Minum Obat Batuk_4.parquet,obat,17
+data/wildan/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,22
+data/wildan/raw_landmarks/Minum Obat Batuk_6.parquet,minum,33
+data/wildan/raw_landmarks/Minum Obat Batuk_7.parquet,obat,15
+data/wildan/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,22
+data/wildan/raw_landmarks/Minum Obat Batuk_9.parquet,minum,26
+data/wildan/raw_landmarks/Minum Obat Batuk_10.parquet,obat,18
+data/wildan/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,23
+data/wildan/raw_landmarks/Minum Obat Batuk_12.parquet,minum,31
+data/wildan/raw_landmarks/Minum Obat Batuk_13.parquet,obat,18
+data/wildan/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,24
+data/wildan/raw_landmarks/Minum Obat Batuk_15.parquet,minum,34
+data/wildan/raw_landmarks/Minum Obat Batuk_16.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Batuk_17.parquet,batuk,25
+data/wildan/raw_landmarks/Minum Obat Demam_0.parquet,minum,29
+data/wildan/raw_landmarks/Minum Obat Demam_1.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Demam_2.parquet,demam,36
+data/wildan/raw_landmarks/Minum Obat Demam_3.parquet,minum,31
+data/wildan/raw_landmarks/Minum Obat Demam_4.parquet,obat,18
+data/wildan/raw_landmarks/Minum Obat Demam_5.parquet,demam,25
+data/wildan/raw_landmarks/Minum Obat Demam_6.parquet,minum,35
+data/wildan/raw_landmarks/Minum Obat Demam_7.parquet,obat,12
+data/wildan/raw_landmarks/Minum Obat Demam_8.parquet,demam,30
+data/wildan/raw_landmarks/Minum Obat Demam_9.parquet,minum,34
+data/wildan/raw_landmarks/Minum Obat Demam_10.parquet,obat,17
+data/wildan/raw_landmarks/Minum Obat Demam_11.parquet,demam,30
+data/wildan/raw_landmarks/Minum Obat Demam_12.parquet,minum,37
+data/wildan/raw_landmarks/Minum Obat Demam_13.parquet,obat,14
+data/wildan/raw_landmarks/Minum Obat Demam_14.parquet,demam,30
+data/yero/raw_landmarks/Minum Obat Demam_0.parquet,minum,25
+data/yero/raw_landmarks/Minum Obat Demam_1.parquet,obat,19
+data/yero/raw_landmarks/Minum Obat Demam_2.parquet,demam,25
+data/yero/raw_landmarks/Minum Obat Demam_3.parquet,minum,23
+data/yero/raw_landmarks/Minum Obat Demam_4.parquet,obat,21
+data/yero/raw_landmarks/Minum Obat Demam_5.parquet,demam,22
+data/yero/raw_landmarks/Minum Obat Demam_6.parquet,minum,24
+data/yero/raw_landmarks/Minum Obat Demam_7.parquet,obat,19
+data/yero/raw_landmarks/Minum Obat Demam_8.parquet,demam,24
+data/yero/raw_landmarks/Minum Obat Demam_9.parquet,minum,23
+data/yero/raw_landmarks/Minum Obat Demam_10.parquet,obat,23
+data/yero/raw_landmarks/Minum Obat Demam_11.parquet,demam,25
+data/yero/raw_landmarks/Minum Obat Demam_12.parquet,minum,31
+data/yero/raw_landmarks/Minum Obat Demam_13.parquet,obat,18
+data/yero/raw_landmarks/Minum Obat Demam_14.parquet,demam,33
+data/yero/raw_landmarks/Minum Obat Demam_15.parquet,minum,22
+data/yero/raw_landmarks/Minum Obat Demam_16.parquet,obat,23
+data/yero/raw_landmarks/Minum Obat Demam_17.parquet,demam,27
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_0.parquet,minum,22
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_1.parquet,obat,25
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_2.parquet,sakit,23
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_3.parquet,kepala,27
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_4.parquet,minum,17
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_5.parquet,obat,18
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_6.parquet,sakit,23
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_7.parquet,kepala,26
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_8.parquet,minum,24
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_9.parquet,obat,19
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_10.parquet,sakit,22
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_11.parquet,kepala,26
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_12.parquet,minum,23
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_13.parquet,obat,22
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_14.parquet,sakit,26
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_15.parquet,kepala,24
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_16.parquet,obat,22
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_17.parquet,sakit,23
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_18.parquet,kepala,27
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_19.parquet,minum,19
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_20.parquet,obat,27
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_21.parquet,sakit,23
+data/yero/raw_landmarks/Minum Obat Sakit Kepala_22.parquet,kepala,25
+data/yero/raw_landmarks/Minum Obat Sakit Perut_0.parquet,minum,22
+data/yero/raw_landmarks/Minum Obat Sakit Perut_1.parquet,obat,16
+data/yero/raw_landmarks/Minum Obat Sakit Perut_2.parquet,sakit,30
+data/yero/raw_landmarks/Minum Obat Sakit Perut_3.parquet,perut,31
+data/yero/raw_landmarks/Minum Obat Sakit Perut_4.parquet,minum,24
+data/yero/raw_landmarks/Minum Obat Sakit Perut_5.parquet,obat,21
+data/yero/raw_landmarks/Minum Obat Sakit Perut_6.parquet,sakit,24
+data/yero/raw_landmarks/Minum Obat Sakit Perut_7.parquet,perut,30
+data/yero/raw_landmarks/Minum Obat Sakit Perut_8.parquet,minum,25
+data/yero/raw_landmarks/Minum Obat Sakit Perut_9.parquet,obat,23
+data/yero/raw_landmarks/Minum Obat Sakit Perut_10.parquet,perut,25
+data/yero/raw_landmarks/Minum Obat Sakit Perut_11.parquet,minum,24
+data/yero/raw_landmarks/Minum Obat Sakit Perut_12.parquet,obat,18
+data/yero/raw_landmarks/Minum Obat Sakit Perut_13.parquet,sakit,25
+data/yero/raw_landmarks/Minum Obat Sakit Perut_14.parquet,perut,24
+data/yero/raw_landmarks/Minum Obat Sakit Perut_15.parquet,minum,20
+data/yero/raw_landmarks/Minum Obat Sakit Perut_16.parquet,obat,21
+data/yero/raw_landmarks/Minum Obat Sakit Perut_17.parquet,sakit,26
+data/yero/raw_landmarks/Minum Obat Sakit Perut_18.parquet,perut,24
+data/yero/raw_landmarks/Minum Obat Sakit Perut_19.parquet,minum,26
+data/yero/raw_landmarks/Minum Obat Sakit Perut_20.parquet,obat,25
+data/yero/raw_landmarks/Minum Obat Sakit Perut_21.parquet,sakit,25
+data/yero/raw_landmarks/Minum Obat Sakit Perut_22.parquet,perut,23
+data/yero/raw_landmarks/Minum Obat Sakit Perut_23.parquet,minum,27
+data/yero/raw_landmarks/Minum Obat Sakit Perut_24.parquet,obat,23
+data/yero/raw_landmarks/Minum Obat Sakit Perut_25.parquet,sakit,24
+data/yero/raw_landmarks/Minum Obat Sakit Perut_26.parquet,perut,18
+data/yero/raw_landmarks/Resep Obat Batuk_0.parquet,resep,32
+data/yero/raw_landmarks/Resep Obat Batuk_1.parquet,obat,30
+data/yero/raw_landmarks/Resep Obat Batuk_2.parquet,batuk,33
+data/yero/raw_landmarks/Resep Obat Batuk_3.parquet,resep,39
+data/yero/raw_landmarks/Resep Obat Batuk_4.parquet,obat,27
+data/yero/raw_landmarks/Resep Obat Batuk_5.parquet,batuk,32
+data/yero/raw_landmarks/Resep Obat Batuk_6.parquet,resep,43
+data/yero/raw_landmarks/Resep Obat Batuk_7.parquet,obat,27
+data/yero/raw_landmarks/Resep Obat Batuk_8.parquet,batuk,30
+data/yero/raw_landmarks/Resep Obat Batuk_9.parquet,obat,28
+data/yero/raw_landmarks/Resep Obat Batuk_10.parquet,batuk,32
+data/yero/raw_landmarks/Resep Obat Batuk_11.parquet,resep,36
+data/yero/raw_landmarks/Resep Obat Batuk_12.parquet,obat,28
+data/yero/raw_landmarks/Resep Obat Batuk_13.parquet,batuk,31
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_0.parquet,resep,33
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_1.parquet,obat,26
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_2.parquet,sakit,30
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_3.parquet,kepala,36
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_4.parquet,resep,30
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_5.parquet,obat,34
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_6.parquet,sakit,35
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_7.parquet,kepala,31
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_8.parquet,resep,36
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_9.parquet,obat,32
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_10.parquet,sakit,37
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_11.parquet,kepala,28
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_12.parquet,resep,40
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_13.parquet,obat,27
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_14.parquet,sakit,33
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_15.parquet,kepala,36
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_16.parquet,resep,31
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_17.parquet,obat,27
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_18.parquet,sakit,37
+data/yero/raw_landmarks/Resep Obat Sakit Kepala_19.parquet,kepala,28
+data/yero/raw_landmarks/Resep Obat Sakit Perut_0.parquet,obat,21
+data/yero/raw_landmarks/Resep Obat Sakit Perut_1.parquet,sakit,26
+data/yero/raw_landmarks/Resep Obat Sakit Perut_2.parquet,perut,31
+data/yero/raw_landmarks/Resep Obat Sakit Perut_3.parquet,resep,36
+data/yero/raw_landmarks/Resep Obat Sakit Perut_4.parquet,obat,31
+data/yero/raw_landmarks/Resep Obat Sakit Perut_5.parquet,sakit,36
+data/yero/raw_landmarks/Resep Obat Sakit Perut_6.parquet,perut,32
+data/yero/raw_landmarks/Resep Obat Sakit Perut_7.parquet,resep,35
+data/yero/raw_landmarks/Resep Obat Sakit Perut_8.parquet,obat,31
+data/yero/raw_landmarks/Resep Obat Sakit Perut_9.parquet,sakit,32
+data/yero/raw_landmarks/Resep Obat Sakit Perut_10.parquet,perut,33
+data/yero/raw_landmarks/Resep Obat Sakit Perut_11.parquet,resep,36
+data/yero/raw_landmarks/Resep Obat Sakit Perut_12.parquet,obat,30
+data/yero/raw_landmarks/Resep Obat Sakit Perut_13.parquet,sakit,39
+data/yero/raw_landmarks/Resep Obat Sakit Perut_14.parquet,perut,38
+data/yero/raw_landmarks/Resep Obat Sakit Perut_15.parquet,resep,34
+data/yero/raw_landmarks/Resep Obat Sakit Perut_16.parquet,obat,32
+data/yero/raw_landmarks/Resep Obat Sakit Perut_17.parquet,sakit,31
+data/yero/raw_landmarks/Resep Obat Sakit Perut_18.parquet,perut,22
+data/yero/raw_landmarks/Resep Obat Sakit Perut_19.parquet,resep,34
+data/yero/raw_landmarks/Resep Obat Sakit Perut_20.parquet,obat,25
+data/yero/raw_landmarks/Resep Obat Sakit Perut_21.parquet,sakit,31
+data/yero/raw_landmarks/Resep Obat Sakit Perut_22.parquet,perut,26
+data/yero/raw_landmarks/Resep Obat Demam_0.parquet,resep,42
+data/yero/raw_landmarks/Resep Obat Demam_1.parquet,obat,39
+data/yero/raw_landmarks/Resep Obat Demam_2.parquet,demam,39
+data/yero/raw_landmarks/Resep Obat Demam_3.parquet,resep,31
+data/yero/raw_landmarks/Resep Obat Demam_4.parquet,obat,36
+data/yero/raw_landmarks/Resep Obat Demam_5.parquet,demam,37
+data/yero/raw_landmarks/Resep Obat Demam_6.parquet,resep,28
+data/yero/raw_landmarks/Resep Obat Demam_7.parquet,obat,24
+data/yero/raw_landmarks/Resep Obat Demam_8.parquet,demam,32
+data/yero/raw_landmarks/Resep Obat Demam_9.parquet,resep,27
+data/yero/raw_landmarks/Resep Obat Demam_10.parquet,obat,26
+data/yero/raw_landmarks/Resep Obat Demam_11.parquet,demam,36
+data/yero/raw_landmarks/Resep Obat Demam_12.parquet,resep,30
+data/yero/raw_landmarks/Resep Obat Demam_13.parquet,obat,25
+data/yero/raw_landmarks/Resep Obat Demam_14.parquet,demam,36
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_0.parquet,resep,39
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_1.parquet,obat,27
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_2.parquet,gigi,31
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_3.parquet,resep,32
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_4.parquet,obat,48
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_5.parquet,gigi,24
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_6.parquet,resep,36
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_7.parquet,obat,23
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_8.parquet,gigi,23
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_9.parquet,resep,37
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_10.parquet,obat,28
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_11.parquet,gigi,25
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_12.parquet,resep,30
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_13.parquet,obat,27
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_14.parquet,resep,35
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_15.parquet,obat,28
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_16.parquet,gigi,34
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_17.parquet,resep,34
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_18.parquet,obat,32
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_19.parquet,gigi,30
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_20.parquet,resep,36
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_21.parquet,obat,28
+data/yero/raw_landmarks/Resep Obat Sakit Gigi_22.parquet,gigi,27
+data/yero/raw_landmarks/Minum Obat Batuk_0.parquet,minum,35
+data/yero/raw_landmarks/Minum Obat Batuk_1.parquet,obat,29
+data/yero/raw_landmarks/Minum Obat Batuk_2.parquet,batuk,45
+data/yero/raw_landmarks/Minum Obat Batuk_3.parquet,minum,44
+data/yero/raw_landmarks/Minum Obat Batuk_4.parquet,obat,35
+data/yero/raw_landmarks/Minum Obat Batuk_5.parquet,batuk,21
+data/yero/raw_landmarks/Minum Obat Batuk_6.parquet,minum,39
+data/yero/raw_landmarks/Minum Obat Batuk_7.parquet,obat,28
+data/yero/raw_landmarks/Minum Obat Batuk_8.parquet,batuk,29
+data/yero/raw_landmarks/Minum Obat Batuk_9.parquet,minum,29
+data/yero/raw_landmarks/Minum Obat Batuk_10.parquet,obat,23
+data/yero/raw_landmarks/Minum Obat Batuk_11.parquet,batuk,18
+data/yero/raw_landmarks/Minum Obat Batuk_12.parquet,minum,34
+data/yero/raw_landmarks/Minum Obat Batuk_13.parquet,obat,20
+data/yero/raw_landmarks/Minum Obat Batuk_14.parquet,batuk,18
+data/yero/raw_landmarks/Minum Obat Batuk_15.parquet,minum,30
+data/yero/raw_landmarks/Minum Obat Batuk_16.parquet,obat,24
+data/yero/raw_landmarks/Minum Obat Batuk_17.parquet,batuk,29
+data/yero/raw_landmarks/Minum Obat Saki Gigi_0.parquet,minum,27
+data/yero/raw_landmarks/Minum Obat Saki Gigi_1.parquet,obat,21
+data/yero/raw_landmarks/Minum Obat Saki Gigi_2.parquet,sakit,26
+data/yero/raw_landmarks/Minum Obat Saki Gigi_3.parquet,gigi,19
+data/yero/raw_landmarks/Minum Obat Saki Gigi_4.parquet,minum,26
+data/yero/raw_landmarks/Minum Obat Saki Gigi_5.parquet,obat,19
+data/yero/raw_landmarks/Minum Obat Saki Gigi_6.parquet,sakit,27
+data/yero/raw_landmarks/Minum Obat Saki Gigi_7.parquet,gigi,20
+data/yero/raw_landmarks/Minum Obat Saki Gigi_8.parquet,minum,21
+data/yero/raw_landmarks/Minum Obat Saki Gigi_9.parquet,obat,16
+data/yero/raw_landmarks/Minum Obat Saki Gigi_10.parquet,sakit,26
+data/yero/raw_landmarks/Minum Obat Saki Gigi_11.parquet,gigi,38
+data/yero/raw_landmarks/Minum Obat Saki Gigi_12.parquet,minum,21
+data/yero/raw_landmarks/Minum Obat Saki Gigi_13.parquet,obat,17
+data/yero/raw_landmarks/Minum Obat Saki Gigi_14.parquet,sakit,30
+data/yero/raw_landmarks/Minum Obat Saki Gigi_15.parquet,gigi,21
+data/yero/raw_landmarks/Minum Obat Saki Gigi_16.parquet,minum,26
+data/yero/raw_landmarks/Minum Obat Saki Gigi_17.parquet,obat,18
+data/yero/raw_landmarks/Minum Obat Saki Gigi_18.parquet,sakit,27
+data/yero/raw_landmarks/Minum Obat Saki Gigi_19.parquet,gigi,23
+data/yero/raw_landmarks/Minum Obat Saki Gigi_20.parquet,minum,24
+data/yero/raw_landmarks/Minum Obat Saki Gigi_21.parquet,obat,19
+data/yero/raw_landmarks/Minum Obat Saki Gigi_22.parquet,sakit,33
+data/yero/raw_landmarks/Minum Obat Saki Gigi_23.parquet,gigi,26
+data/yero/raw_landmarks/Minum Obat Saki Gigi_24.parquet,minum,27
+data/yero/raw_landmarks/Minum Obat Saki Gigi_25.parquet,obat,20
+data/yero/raw_landmarks/Minum Obat Saki Gigi_26.parquet,sakit,24
+data/yero/raw_landmarks/Minum Obat Saki Gigi_27.parquet,gigi,23

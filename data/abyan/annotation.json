@@ -1,0 +1,1723 @@
+[
+  {
+    "video_url": "\/data\/upload\/19\/676aac86-Minum_Obat_Sakit_Perut.mp4",
+    "id": 81,
+    "tricks": [
+      {
+        "start": 1.0326533938019653,
+        "end": 2.426,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 2.917245837490552,
+        "end": 4.001,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.15642991005291,
+        "end": 5.318,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 5.62796099622071,
+        "end": 6.634,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 7.770716788359788,
+        "end": 8.88,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 9.706941901738473,
+        "end": 10.507,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 11.075207648526078,
+        "end": 12.366,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 12.624187739229026,
+        "end": 13.527,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 14.534596517762662,
+        "end": 15.825,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 16.238474617535903,
+        "end": 17.012,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 17.426026020408166,
+        "end": 18.561944753590325,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 18.820108102040816,
+        "end": 19.904,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 20.859598554799696,
+        "end": 22.279,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 22.821640003023433,
+        "end": 23.776,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 24.11245674527589,
+        "end": 25.609,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 25.79051851020408,
+        "end": 26.951999999999998,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 27.959090637188208,
+        "end": 29.275,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 29.7920504111867,
+        "end": 30.54,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 31.134499823129254,
+        "end": 32.089,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 32.606030909297054,
+        "end": 33.819,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2023-09-28T17:32:34.881798Z",
+    "updated_at": "2023-09-28T17:32:34.881798Z",
+    "lead_time": 516.304
+  },
+  {
+    "video_url": "\/data\/upload\/19\/6939cfdb-Resep_Obat_Demam.mp4",
+    "id": 82,
+    "tricks": [
+      {
+        "start": 1.5731180120937263,
+        "end": 3.194,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 3.6060705200302343,
+        "end": 4.38,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.453,
+        "end": 5.614,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 6.631297466364323,
+        "end": 7.792,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 8.228617294028723,
+        "end": 9.196,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 9.293497179138322,
+        "end": 10.285,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 11.157036978080122,
+        "end": 12.27,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 12.65754954346183,
+        "end": 13.48,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 13.55301671957672,
+        "end": 14.714,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 15.682776489795918,
+        "end": 16.917,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 17.522114473167044,
+        "end": 18.369,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 18.490187095993953,
+        "end": 19.651,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 20.692552312925173,
+        "end": 21.612,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 22.265670325018895,
+        "end": 23.112,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 23.91139378382464,
+        "end": 24.758,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 25.750731767195767,
+        "end": 26.912,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 27.686877012849585,
+        "end": 28.679,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 29.405205918367347,
+        "end": 30.155,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2023-09-28T17:39:59.977198Z",
+    "updated_at": "2023-09-28T17:39:59.977198Z",
+    "lead_time": 443.679
+  },
+  {
+    "video_url": "\/data\/upload\/19\/b55cfe1a-Resep_Obat_Sakit_Gigi.mp4",
+    "id": 83,
+    "tricks": [
+      {
+        "start": 1.4965394897959183,
+        "end": 2.846,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 3.25717418367347,
+        "end": 4.284,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.401586734693878,
+        "end": 5.751,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 5.898126224489797,
+        "end": 6.661,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 7.834824387755102,
+        "end": 9.096,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 9.272676054421769,
+        "end": 10.27,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 10.475776428571429,
+        "end": 11.766,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 11.913628095238096,
+        "end": 12.705,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 13.833,
+        "end": 15.546,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 16.97550795642374,
+        "end": 18.288,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 18.463052468069122,
+        "end": 19.308,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 20.24227237415477,
+        "end": 21.758,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 23.188193858001505,
+        "end": 24.5,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 24.792408527422992,
+        "end": 25.871,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 26.629963512396696,
+        "end": 28.117508024042078,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 29.488382377911346,
+        "end": 30.625,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 30.771754113448534,
+        "end": 31.705,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 32.72597925619835,
+        "end": 33.951,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 35.55523058226897,
+        "end": 36.517,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 37.18861279113449,
+        "end": 38.034,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2023-09-29T03:38:32.322432Z",
+    "updated_at": "2023-09-29T03:38:32.322432Z",
+    "lead_time": 356.218
+  },
+  {
+    "video_url": "\/data\/upload\/19\/5dbc045d-Resep_Obat_Sakit_Kepala.mp4",
+    "id": 84,
+    "tricks": [
+      {
+        "start": 1.1456555199098422,
+        "end": 2.404,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 3.227198647633358,
+        "end": 4.082,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.195358241923366,
+        "end": 5.211,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 5.712141606311044,
+        "end": 6.567,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 7.551644835462059,
+        "end": 8.6,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 9.149108166040572,
+        "end": 9.939,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 10.31089967918858,
+        "end": 11.262,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 11.795411057099924,
+        "end": 12.553,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 13.715594252441774,
+        "end": 14.651,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 15.264649603305784,
+        "end": 15.958,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 16.119857244928625,
+        "end": 17.346,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 17.878680507888806,
+        "end": 18.653,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2023-09-29T03:53:02.381615Z",
+    "updated_at": "2023-09-29T03:53:02.381615Z",
+    "lead_time": 694.367
+  },
+  {
+    "video_url": "\/data\/upload\/19\/fbab9520-Minum_Obat_Demam.mp4",
+    "id": 85,
+    "tricks": [
+      {
+        "start": 1.4607160886551465,
+        "end": 3.023,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 3.510843932381668,
+        "end": 4.484,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.945933422990232,
+        "end": 5.996,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 7.167273284958427,
+        "end": 8.585,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 8.997763944066515,
+        "end": 10.106,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 10.647783693121692,
+        "end": 12.117,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 13.509536695389265,
+        "end": 14.953,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 15.314245795918366,
+        "end": 16.474,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 16.861139310657595,
+        "end": 18.15,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 19.2588242585034,
+        "end": 20.522,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 21.269785827664396,
+        "end": 22.069,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 22.8682424595616,
+        "end": 23.693,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 24.77607779440665,
+        "end": 26.013,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 26.555,
+        "end": 27.457,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 27.895646382464093,
+        "end": 28.978,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      },
+      {
+        "start": 30.11286042025699,
+        "end": 31.453,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 31.788661727891153,
+        "end": 32.639,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 33.05195809826152,
+        "end": 34.031,
+        "channel": 0,
+        "labels": [
+          "demam"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2023-09-29T06:51:30.870974Z",
+    "updated_at": "2023-09-29T06:51:30.870974Z",
+    "lead_time": 1300.425
+  },
+  {
+    "video_url": "\/data\/upload\/19\/a479cff5-Minum_Obat_Sakit_Kepala.mp4",
+    "id": 86,
+    "tricks": [
+      {
+        "start": 1.0099064244928624,
+        "end": 2.093,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 2.586,
+        "end": 3.251,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 3.6208840097670922,
+        "end": 4.655,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 5.148059578512396,
+        "end": 5.862,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 6.896921923365889,
+        "end": 8.005,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 8.448729356123216,
+        "end": 9.483,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 9.72958628474831,
+        "end": 11.059,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 11.503080493613824,
+        "end": 12.217,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 13.424365886551463,
+        "end": 14.705,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 15.222491959429,
+        "end": 16.084,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 16.527980752066114,
+        "end": 17.587,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 18.252211232907587,
+        "end": 19.138,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 20.370551537941395,
+        "end": 21.355,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 21.823831514650635,
+        "end": 22.735,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 23.203215899323816,
+        "end": 24.188,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 25.099869428249434,
+        "end": 25.888,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 27.119682277235157,
+        "end": 28.228,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 28.696121574004508,
+        "end": 29.385813766341094,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 29.85381918256949,
+        "end": 30.962,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 31.578049663410965,
+        "end": 32.341,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2023-09-29T07:03:04.663553Z",
+    "updated_at": "2023-09-29T07:03:04.663553Z",
+    "lead_time": 691.842
+  },
+  {
+    "video_url": "\/data\/upload\/19\/468b2d9b-Minum_Obat_Sakit_Gigi.mp4",
+    "id": 87,
+    "tricks": [
+      {
+        "start": 1.7248677248677247,
+        "end": 3.11,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 3.326530612244898,
+        "end": 4.373,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.712585034013606,
+        "end": 5.79,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 5.944633408919124,
+        "end": 6.714,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 7.885109599395314,
+        "end": 9.147,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 9.517573696145124,
+        "end": 10.503,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 10.78042328042328,
+        "end": 12.043272864701436,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 12.185199098422238,
+        "end": 13.042,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 14.420172802404208,
+        "end": 15.614,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 16.10405709992487,
+        "end": 17.267,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 17.38993238166792,
+        "end": 18.4,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 18.64519158527423,
+        "end": 19.41,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 21.308790383170546,
+        "end": 22.472,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 22.839594290007515,
+        "end": 24.064,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 24.401014274981218,
+        "end": 25.564,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 25.778737791134485,
+        "end": 26.635,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 27.983,
+        "end": 29.268,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 29.666979714500375,
+        "end": 30.524,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 30.70792637114951,
+        "end": 31.963,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 32.63673929376409,
+        "end": 33.708,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      },
+      {
+        "start": 34.87171299774606,
+        "end": 36.371,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 36.73929376408715,
+        "end": 37.749,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 37.84147257700977,
+        "end": 39.12734785875282,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 39.49474079639369,
+        "end": 40.413,
+        "channel": 0,
+        "labels": [
+          "gigi"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2023-09-29T07:23:54.118932Z",
+    "updated_at": "2023-09-29T07:27:03.976047Z",
+    "lead_time": 1055.152
+  },
+  {
+    "video_url": "\/data\/upload\/19\/d5255802-Resep_Obat_Batuk.mp4",
+    "id": 88,
+    "tricks": [
+      {
+        "start": 1.4849999999999999,
+        "end": 2.67,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 3.0880534126984127,
+        "end": 4.666,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.991,
+        "end": 6.013,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 6.524383526077098,
+        "end": 7.801,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 8.428296156462586,
+        "end": 9.542,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 9.89105829931973,
+        "end": 10.982,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 11.469912675736962,
+        "end": 12.63083501133787,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 13.234514625850341,
+        "end": 14.418,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 14.813369002267574,
+        "end": 15.533,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 16.043946678004534,
+        "end": 17.32,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 18.110388435374148,
+        "end": 19.317,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 19.805335045351473,
+        "end": 20.525,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 21.035912721088433,
+        "end": 22.336145736961456,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 23.07913603174603,
+        "end": 24.147,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 24.65799040816327,
+        "end": 25.493,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 25.86534963718821,
+        "end": 27.281,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 27.908572947845805,
+        "end": 29.232,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 29.696393344671204,
+        "end": 30.509,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2023-09-29T08:01:54.375937Z",
+    "updated_at": "2023-09-29T08:01:54.376936Z",
+    "lead_time": 338.781
+  },
+  {
+    "video_url": "\/data\/upload\/19\/5a4d8ba6-Resep_Obat_Sakit_Kepala_2.mp4",
+    "id": 89,
+    "tricks": [
+      {
+        "start": 1.2436173537414965,
+        "end": 2.451,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 3.100031664399093,
+        "end": 4.199,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.505,
+        "end": 5.551,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 6.083,
+        "end": 7.029,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 8.416946437641723,
+        "end": 9.48,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 10.021032589569161,
+        "end": 11.102,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 11.37279058276644,
+        "end": 12.508,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 12.922806414965986,
+        "end": 13.896,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      },
+      {
+        "start": 15.211783283446712,
+        "end": 16.185,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 16.960056954648525,
+        "end": 17.879,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 18.005416469387754,
+        "end": 19.086,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 19.537408861678006,
+        "end": 20.438,
+        "channel": 0,
+        "labels": [
+          "kepala"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2023-09-29T08:23:58.150599Z",
+    "updated_at": "2023-09-29T08:23:58.150599Z",
+    "lead_time": 1321.797
+  },
+  {
+    "video_url": "\/data\/upload\/19\/4859da72-Resep_Obat_Sakit_Perut.mp4",
+    "id": 90,
+    "tricks": [
+      {
+        "start": 1.417369297052154,
+        "end": 2.504,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 3.1182124535147393,
+        "end": 3.945,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.464713285714286,
+        "end": 5.551,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 5.787591296296296,
+        "end": 6.59,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 7.370320344671202,
+        "end": 8.48,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 9.189277609221467,
+        "end": 10.134,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 10.653892549508694,
+        "end": 11.74,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 12.354735705971278,
+        "end": 13.205,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 13.961087575963719,
+        "end": 15.047,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 15.638307910808768,
+        "end": 16.488,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 16.913940278155707,
+        "end": 18.095,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 18.307686753590325,
+        "end": 19.087,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 19.866792980347697,
+        "end": 20.835,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 21.4495220287226,
+        "end": 22.441,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 22.819645682539683,
+        "end": 24.095,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 24.28426062282691,
+        "end": 25.087,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      },
+      {
+        "start": 25.512647346938778,
+        "end": 26.646,
+        "channel": 0,
+        "labels": [
+          "resep"
+        ]
+      },
+      {
+        "start": 27.331604611489038,
+        "end": 28.276,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 28.701728265306123,
+        "end": 29.882,
+        "channel": 0,
+        "labels": [
+          "sakit"
+        ]
+      },
+      {
+        "start": 30.071851919123205,
+        "end": 30.78,
+        "channel": 0,
+        "labels": [
+          "perut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2023-09-29T08:36:57.442832Z",
+    "updated_at": "2023-09-29T08:36:57.442832Z",
+    "lead_time": 771.22
+  },
+  {
+    "video_url": "\/data\/upload\/19\/de117f35-Minum_Obat_Batuk.mp4",
+    "id": 91,
+    "tricks": [
+      {
+        "start": 0.9547393801965232,
+        "end": 1.933,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 2.506190873015873,
+        "end": 3.675,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 4.129,
+        "end": 5.107,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 6.110332033257748,
+        "end": 7.375,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 7.852731402116402,
+        "end": 8.759,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 9.3087089569161,
+        "end": 11.194,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 12.02971619047619,
+        "end": 13.223,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 13.628904652305367,
+        "end": 14.679,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 15.228093114134543,
+        "end": 16.493,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 17.018229452003023,
+        "end": 18.307,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 18.784497305366592,
+        "end": 19.882,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 20.335948798185942,
+        "end": 21.433,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 22.34090149659864,
+        "end": 23.725,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 24.131037834467122,
+        "end": 25.157,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 25.587015389266817,
+        "end": 26.684,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      },
+      {
+        "start": 27.233940820105822,
+        "end": 28.498,
+        "channel": 0,
+        "labels": [
+          "minum"
+        ]
+      },
+      {
+        "start": 28.904734735449736,
+        "end": 29.859,
+        "channel": 0,
+        "labels": [
+          "obat"
+        ]
+      },
+      {
+        "start": 30.217501383219957,
+        "end": 31.483,
+        "channel": 0,
+        "labels": [
+          "batuk"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2023-09-29T08:51:17.736970Z",
+    "updated_at": "2023-09-29T08:51:17.736970Z",
+    "lead_time": 859.213
+  }
+]
